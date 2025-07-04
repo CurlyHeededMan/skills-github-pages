@@ -1,0 +1,4 @@
+theme: minima
+title: {{ login }}'s coding blog
+description: This is where I share my coding progress as I self learn
+author: CurlyHeededMan
